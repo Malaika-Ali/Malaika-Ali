@@ -27,14 +27,14 @@
 
 ## 📫 Connect With Me
 <div align="center">
-    <a href="https://www.linkedin.com/in/malaika-ali/" target="_blank">
-        <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linkedin.png" alt="LinkedIn" title="LinkedIn"/>
+     <a href="https://www.linkedin.com/in/malaika-ali/" target="_blank">
+        <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" title="LinkedIn"/>
     </a>
     <a href="https://youtube.com/@coder_astro?si=KMR9VT0bSEKgnr46" target="_blank">
         <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" alt="YouTube" title="YouTube"/>
     </a>
     <a href="https://www.instagram.com/coder.astro?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank">
-        <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/instagram.png" alt="Instagram" title="Instagram"/>
+        <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" title="Instagram"/>
     </a>
 </div>
 
