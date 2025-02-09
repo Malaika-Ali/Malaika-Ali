@@ -20,6 +20,7 @@
 	<a href="https://developer.mozilla.org/en-US/docs/Web/HTTP"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png" alt="HTTP" title="HTTP"/></a>
 	<a href="https://restfulapi.net/"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" alt="REST" title="REST"/></a>
 	<a href="https://redux.js.org/"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redux.png" alt="Redux" title="Redux"/></a>
+       <a href="https://learning.postman.com/docs/"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" title="Postman"/></a>
 </div>
 - 📫 How to reach me ...
 
