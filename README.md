@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Malaika-Ali
 - 👀 I’m a MERN stack developer.
-- 🌱 I’m currently working to excel my skills in web development.
-- 💞️ I’m looking to collaborate on Front-end web development projects.
+- 🌱 I’m currently working to excel my skills in backend development.
+- 💞️ I’m looking to collaborate on MERN stack or Reactjs projects.
+  
+- ## 🔧 Languages And Tools:
 - <div align="center">
 	<a href="https://git-scm.com/doc"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></a>
 	<a href="https://docs.github.com/"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></a>
@@ -22,7 +24,19 @@
 	<a href="https://redux.js.org/"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redux.png" alt="Redux" title="Redux"/></a>
        <a href="https://learning.postman.com/docs/"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" title="Postman"/></a>
 </div>
-- 📫 How to reach me ...
+
+## 📫 Connect With Me
+<div align="center">
+    <a href="https://www.linkedin.com/in/malaika-ali/" target="_blank">
+        <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linkedin.png" alt="LinkedIn" title="LinkedIn"/>
+    </a>
+    <a href="https://youtube.com/@coder_astro?si=KMR9VT0bSEKgnr46" target="_blank">
+        <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" alt="YouTube" title="YouTube"/>
+    </a>
+    <a href="https://www.instagram.com/coder.astro?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank">
+        <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/instagram.png" alt="Instagram" title="Instagram"/>
+    </a>
+</div>
 
 <!---
 Malaika-Ali/Malaika-Ali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
